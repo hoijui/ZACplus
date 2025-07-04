@@ -2,6 +2,11 @@
 #
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
+# Output/generated directories
+/public
+/target
+/build
+
 # FreeCAD backup files
 *.fcstd1
 *.Fcstd1
