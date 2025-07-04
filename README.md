@@ -6,8 +6,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # ZACplus
 
-[![License: CC BY-SA 4.0](
-    https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](
+[![License: CC-BY-SA-4.0](
+    https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](
     https://creativecommons.org/licenses/by-sa/4.0/)
 [![REUSE status](
     https://api.reuse.software/badge/github.com/case06/ZACplus)](
