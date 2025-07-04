@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "ZACPlus"
+SPDX-PackageSupplier = "Oliver Schlüter <case06@opensourceecology.de>"
+SPDX-PackageDownloadLocation = "https://github.com/case06/ZACplus"
+
+[[annotations]]
+path = ["**.fcstd", "**.stl", "**.jpg", "**.png", "**.gcode", "**.pdf", "**.ods", "**.odg", "**.xpm"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Oliver Schlüter <case06@opensourceecology.de>"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
